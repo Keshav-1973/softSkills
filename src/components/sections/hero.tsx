@@ -1,4 +1,4 @@
-import Img1 from "@/assets/images/Img1.jpg";
+import Img1 from "@/assets/images/img1.jpg";
 
 const Hero = () => (
   <section
