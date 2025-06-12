@@ -1,7 +1,7 @@
 import { useParams } from "react-router-dom";
 import microsoftLogo from "@/assets/images/img1.jpg";
 import Devops from "@/assets/images/Devops.jpg";
-import { BadgeCheck, CircleCheckBig } from "lucide-react";
+import { CircleCheckBig } from "lucide-react";
 
 const courseContent: Record<
   string,

@@ -1,5 +1,3 @@
-import Student from "@/assets/svgs/student.svg?react";
-import Teacher from "@/assets/svgs/teacher.svg?react";
 import { Speech } from "lucide-react";
 
 const platFormTrust = [
