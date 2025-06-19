@@ -13,7 +13,7 @@ const Hero = () => (
         Advance Your Career with Our Courses
       </h1>
       <p className="text-lg mb-6">
-        Gain in-demand skills and advance professionally with Shef Solutions
+        Gain in-demand skills and advance professionally with Skill Solutions
         LLC.
       </p>
       <a

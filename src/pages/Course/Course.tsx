@@ -45,7 +45,7 @@ const courseContent: Record<
     },
     keyFeatures: [
       "100% Job assistance through our in-house recruitment agency with over 250 hiring partners",
-      "Industry-recognized advanced Data Scientist and AI certificate from Shef Solutions LLC",
+      "Industry-recognized advanced Data Scientist and AI certificate from Skill Solutions LLC",
       "Capstone from Various domains and industry relevant projects",
       "Program crafted to initiate your journey as a Data Scientist",
       "Professional-level training from Microsoft",
